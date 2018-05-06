@@ -1,0 +1,32 @@
+﻿  Main.cpp
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(56): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(61): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(206): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(211): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(212): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(219): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(249): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(250): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(256): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(260): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(264): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(268): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(287): warning C4305: =: усечение из "double" в "float"
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(293): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(294): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(437): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(462): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(483): warning C4305: =: усечение из "double" в "float"
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(484): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(491): warning C4305: =: усечение из "double" в "float"
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(492): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(499): warning C4305: =: усечение из "double" в "float"
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(500): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(507): warning C4305: =: усечение из "double" в "float"
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(508): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(516): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(550): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(426): warning C4101: vectorY: неиспользованная локальная переменная
+c:\users\алексей\desktop\5637292mac\5637292\main.cpp(425): warning C4101: vectorX: неиспользованная локальная переменная
+  5637292.vcxproj -> C:\Users\Алексей\Desktop\5637292mac\x64\Debug\5637292.exe
